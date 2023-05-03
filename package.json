@@ -1,0 +1,23 @@
+{
+  "name": "web-scraping-node-ml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caianpedroso/web-scraping-node-ml.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caianpedroso/web-scraping-node-ml/issues"
+  },
+  "homepage": "https://github.com/caianpedroso/web-scraping-node-ml#readme",
+  "dependencies": {
+    "puppeteer": "^20.0.0"
+  }
+}
